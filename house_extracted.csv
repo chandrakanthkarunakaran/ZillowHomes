@@ -1,0 +1,801 @@
+,Category(sale/Rent/Sold),House Features,Address,State,Zip code,Price,Open Time/Posting Time
+0, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+1, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+2, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+3, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+4, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+5, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+6, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+7, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+8, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+9, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+10, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+11, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+12, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+13, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+14, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+15, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+16, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+17, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+18, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+19, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+20, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+21, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+22, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+23, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+24, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+25, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+26, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+27, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+28, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+29, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+30, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+31, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+32, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+33, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+34, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+35, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+36, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+37, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+38, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+39, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+40, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+41, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+42, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+43, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+44, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+45, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+46, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+47, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+48, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+49, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+50, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+51, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+52, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+53, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+54, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+55, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+56, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+57, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+58, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+59, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+60, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+61, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+62, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+63, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+64, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+65, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+66, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+67, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+68, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+69, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+70, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+71, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+72, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+73, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+74, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+75, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+76, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+77, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+78, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+79, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+80, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+81, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+82, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+83, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+84, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+85, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+86, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+87, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+88, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+89, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+90, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+91, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+92, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+93, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+94, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+95, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+96, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+97, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+98, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+99, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+100, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+101, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+102, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+103, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+104, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+105, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+106, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+107, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+108, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+109, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+110, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+111, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+112, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+113, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+114, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+115, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+116, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+117, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+118, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+119, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+120, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+121, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+122, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+123, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+124, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+125, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+126, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+127, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+128, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+129, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+130, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+131, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+132, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+133, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+134, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+135, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+136, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+137, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+138, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+139, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+140, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+141, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+142, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+143, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+144, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+145, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+146, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+147, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+148, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+149, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+150, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+151, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+152, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+153, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+154, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+155, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+156, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+157, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+158, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+159, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+160, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+161, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+162, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+163, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+164, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+165, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+166, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+167, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+168, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+169, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+170, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+171, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+172, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+173, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+174, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+175, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+176, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+177, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+178, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+179, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+180, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+181, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+182, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+183, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+184, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+185, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+186, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+187, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+188, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+189, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+190, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+191, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+192, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+193, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+194, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+195, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+196, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+197, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+198, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+199, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+200, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+201, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+202, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+203, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+204, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+205, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+206, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+207, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+208, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+209, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+210, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+211, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+212, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+213, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+214, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+215, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+216, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+217, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+218, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+219, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+220, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+221, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+222, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+223, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+224, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+225, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+226, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+227, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+228, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+229, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+230, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+231, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+232, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+233, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+234, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+235, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+236, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+237, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+238, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+239, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+240, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+241, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+242, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+243, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+244, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+245, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+246, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+247, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+248, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+249, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+250, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+251, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+252, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+253, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+254, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+255, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+256, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+257, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+258, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+259, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+260, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+261, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+262, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+263, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+264, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+265, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+266, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+267, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+268, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+269, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+270, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+271, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+272, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+273, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+274, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+275, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+276, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+277, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+278, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+279, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+280, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+281, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+282, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+283, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+284, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+285, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+286, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+287, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+288, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+289, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+290, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+291, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+292, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+293, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+294, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+295, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+296, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+297, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+298, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+299, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+300, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+301, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+302, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+303, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+304, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+305, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+306, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+307, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+308, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+309, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+310, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+311, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+312, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+313, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+314, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+315, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+316, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+317, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+318, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+319, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+320, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+321, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+322, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+323, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+324, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+325, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+326, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+327, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+328, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+329, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+330, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+331, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+332, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+333, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+334, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+335, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+336, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+337, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+338, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+339, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+340, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+341, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+342, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+343, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+344, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+345, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+346, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+347, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+348, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+349, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+350, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+351, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+352, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+353, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+354, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+355, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+356, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+357, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+358, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+359, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+360, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+361, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+362, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+363, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+364, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+365, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+366, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+367, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+368, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+369, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+370, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+371, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+372, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+373, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+374, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+375, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+376, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+377, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+378, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+379, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+380, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+381, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+382, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+383, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+384, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+385, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+386, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+387, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+388, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+389, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+390, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+391, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+392, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+393, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+394, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+395, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+396, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+397, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+398, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+399, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+400, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+401, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+402, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+403, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+404, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+405, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+406, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+407, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+408, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+409, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+410, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+411, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+412, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+413, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+414, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+415, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+416, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+417, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+418, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+419, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+420, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+421, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+422, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+423, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+424, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+425, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+426, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+427, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+428, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+429, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+430, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+431, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+432, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+433, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+434, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+435, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+436, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+437, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+438, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+439, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+440, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+441, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+442, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+443, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+444, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+445, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+446, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+447, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+448, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+449, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+450, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+451, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+452, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+453, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+454, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+455, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+456, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+457, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+458, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+459, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+460, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+461, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+462, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+463, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+464, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+465, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+466, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+467, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+468, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+469, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+470, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+471, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+472, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+473, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+474, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+475, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+476, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+477, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+478, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+479, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+480, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+481, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+482, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+483, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+484, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+485, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+486, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+487, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+488, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+489, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+490, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+491, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+492, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+493, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+494, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+495, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+496, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+497, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+498, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+499, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+500, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+501, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+502, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+503, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+504, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+505, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+506, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+507, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+508, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+509, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+510, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+511, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+512, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+513, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+514, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+515, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+516, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+517, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+518, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+519, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+520, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+521, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+522, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+523, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+524, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+525, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+526, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+527, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+528, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+529, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+530, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+531, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+532, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+533, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+534, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+535, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+536, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+537, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+538, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+539, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+540, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+541, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+542, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+543, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+544, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+545, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+546, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+547, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+548, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+549, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+550, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+551, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+552, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+553, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+554, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+555, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+556, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+557, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+558, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+559, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+560, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+561, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+562, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+563, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+564, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+565, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+566, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+567, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+568, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+569, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+570, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+571, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+572, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+573, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+574, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+575, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+576, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+577, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+578, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+579, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+580, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+581, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+582, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+583, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+584, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+585, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+586, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+587, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+588, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+589, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+590, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+591, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+592, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+593, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+594, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+595, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+596, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+597, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+598, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+599, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+600, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+601, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+602, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+603, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+604, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+605, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+606, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+607, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+608, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+609, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+610, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+611, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+612, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+613, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+614, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+615, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+616, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+617, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+618, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+619, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+620, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+621, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+622, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+623, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+624, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+625, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+626, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+627, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+628, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+629, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+630, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+631, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+632, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+633, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+634, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+635, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+636, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+637, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+638, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+639, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+640, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+641, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+642, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+643, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+644, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+645, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+646, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+647, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+648, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+649, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+650, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+651, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+652, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+653, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+654, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+655, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+656, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+657, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+658, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+659, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+660, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+661, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+662, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+663, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+664, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+665, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+666, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+667, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+668, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+669, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+670, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+671, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+672, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+673, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+674, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+675, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+676, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+677, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+678, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+679, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+680, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+681, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+682, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+683, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+684, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+685, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+686, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+687, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+688, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+689, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+690, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+691, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+692, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+693, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+694, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+695, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+696, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+697, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+698, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+699, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+700, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+701, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+702, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+703, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+704, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+705, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+706, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+707, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+708, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+709, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+710, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+711, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+712, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+713, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+714, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+715, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+716, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+717, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+718, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+719, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+720, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+721, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+722, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+723, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+724, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+725, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+726, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+727, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+728, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+729, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+730, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+731, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+732, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+733, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+734, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+735, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+736, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+737, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+738, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+739, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+740, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+741, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+742, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+743, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+744, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+745, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+746, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+747, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+748, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+749, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+750, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+751, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+752, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+753, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+754, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+755, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+756, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+757, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+758, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+759, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
+760, House for sale,"3 bds2 ba1,052 sqft ","1600 Berkley Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$270,000",Not Available
+761, House for sale,"3 bds3 ba1,880 sqft ","18112 E Crestline Circle, Centennial, CO 80015", Centennial, CO 80015,"$469,900",Not Available
+762, Townhouse for sale,"3 bds2 ba1,648 sqft ","2899 W 10th Avenue, Denver, CO 80204", Denver, CO 80204,"$312,000",Not Available
+763, House for sale,"3 bds2 ba1,314 sqft ","9365 Daisy Court, Highlands Ranch, CO 80126", Highlands Ranch, CO 80126,"$549,990",Not Available
+764, Condo for sale,"2 bds2 ba1,032 sqft ","1200 N Emerson Street Unit 301, Denver, CO 80218", Denver, CO 80218,"$395,000",Not Available
+765, House for sale,"3 bds3 ba2,264 sqft ","9932 Fairwood Street, Littleton, CO 80125", Littleton, CO 80125,"$550,000",Not Available
+766, House for sale,"4 bds2 ba1,770 sqft ","12572 Maria Circle, Broomfield, CO 80020", Broomfield, CO 80020,"$615,000",Not Available
+767, House for sale,3 bds2 ba912 sqft ,"3200 E Euclid Avenue, Boulder, CO 80303", Boulder, CO 80303,"$218,440",Not Available
+768, House for sale,"4 bds3 ba1,994 sqft ","11911 W 106th Pl, Westminster, CO 80021", Westminster, CO 80021,"$525,000",Not Available
+769, House for sale,"4 bds2 ba1,788 sqft ","4110 Stringtown Dr, Loveland, CO 80538", Loveland, CO 80538,"$475,000",Not Available
+770, House for sale,"5 bds2 ba2,219 sqft ","3624 Meadowland Blvd, Colorado Springs, CO 80918", Colorado Springs, CO 80918,"$415,000",Not Available
+771, House for sale,"4 bds4 ba3,187 sqft ","2564 S Eagle Circle, Aurora, CO 80014", Aurora, CO 80014,"$549,000",Not Available
+772, Home for sale,3 bds2 ba980 sqft ,"17190 Mt Vernon Road Lot 54, Golden, CO 80401", Golden, CO 80401,"$89,900",Not Available
+773, House for sale,"5 bds3 ba2,940 sqft ","5664 Butterfield Dr, Colorado Springs, CO 80923", Colorado Springs, CO 80923,"$499,900",Not Available
+774, Home for sale,"3 bds2 ba1,568 sqft ","1166 Madison Ave UNIT 106, Loveland, CO 80537", Loveland, CO 80537,"$117,000",Not Available
+775, Coming soon,"3 bds2 ba2,204 sqft ","49473 W County Road 17, Wellington, CO 80549", Wellington, CO 80549,"$720,000",Not Available
+776, House for sale,"4 bds3 ba1,648 sqft ","424 Woodlawn Ave, Canon City, CO 81212", Canon City, CO 81212,"$350,000",Not Available
+777, House for sale,"3 bds2 ba1,919 sqft ","325 N Holcomb Street, Castle Rock, CO 80104", Castle Rock, CO 80104,"$478,900",Not Available
+778, House for sale,"3 bds3 ba1,526 sqft ","11216 Kilberry Way, Parker, CO 80134", Parker, CO 80134,"$549,000",Not Available
+779, House for sale,"3 bds2 ba1,339 sqft ","7769 Grosbeak Poin, Colorado Springs, CO 80922", Colorado Springs, CO 80922,"$269,900",Not Available
+780, House for sale,"3 bds1 ba2,452 sqft ","151 Cornell Cir, Pueblo, CO 81005", Pueblo, CO 81005,"$300,000",Not Available
+781, Townhouse for sale,"5 bds4 ba2,096 sqft ","1020 Homestake Drive Unit 4-A, Golden, CO 80401", Golden, CO 80401,"$675,000",Not Available
+782, House for sale,"5 bds4 ba3,938 sqft ","23516 E Piccolo Drive, Aurora, CO 80016", Aurora, CO 80016,"$800,000",Not Available
+783, House for sale,"3 bds2 ba1,868 sqft ","487 Gross Road, Bailey, CO 80421", Bailey, CO 80421,"$540,000",Not Available
+784, House for sale,2 bds2 ba,"404-406 W 4th St, Trinidad, CO 81082", Trinidad, CO 81082,"$125,000",Image 1 of 15
+785, Home for sale,3 bds2 ba896 sqft ,"8160 Piute Road Lot 235, Colorado Springs, CO 80925", Colorado Springs, CO 80925,"$93,000",Not Available
+786, House for sale,"3 bds1 ba1,061 sqft ","2917 Del Mar Cir, Colorado Springs, CO 80910", Colorado Springs, CO 80910,"$319,900",Not Available
+787, House for sale,"2 bds2 ba1,383 sqft ","118 32 1/4 Ln, Pueblo, CO 81006", Pueblo, CO 81006,"$235,000",Not Available
+788, House for sale,"3 bds2 ba1,064 sqft ","638 Holland St, Clifton, CO 81520", Clifton, CO 81520,"$239,900",Not Available
+789, House for sale,2 bds1 ba988 sqft ,"2460 10th St, Boulder, CO 80304", Boulder, CO 80304,"$850,000",Not Available
+790, House for sale,"3 bds2 ba1,360 sqft ","53 Pine Dr, Lake George, CO 80827", Lake George, CO 80827,"$299,000",Not Available
+791, House for sale,"3 bds1 ba1,041 sqft ","125 Jones Ln, Sterling, CO 80751", Sterling, CO 80751,"$225,000",Not Available
+792, House for sale,"3 bds3 ba1,932 sqft ","6624 Monaco Way, Brighton, CO 80602", Brighton, CO 80602,"$508,850",Not Available
+793, House for sale,"5 bds4 ba4,804 sqft ","11784 Crabapple Dr, Franktown, CO 80116", Franktown, CO 80116,"$950,000",Not Available
+794, Home for sale,"4 bds3 ba2,016 sqft ","5400 Sheridan Boulevard Lot 150, Arvada, CO 80002", Arvada, CO 80002,"$130,000",Not Available
+795, House for sale,"6 bds4 ba3,586 sqft ","12961 E Cedar Avenue, Aurora, CO 80012", Aurora, CO 80012,"$599,000",Not Available
+796, House for sale,"3 bds2 ba1,116 sqft ","1947 Euclid Ave, Pueblo, CO 81004", Pueblo, CO 81004,"$265,000",Not Available
+797, House for sale,"3 bds3 ba2,510 sqft ","9261 W Tennessee Avenue, Lakewood, CO 80226", Lakewood, CO 80226,"$495,000",Not Available
+798, House for sale,"3 bds3 ba3,039 sqft ","1124 Roush Dr, Pagosa Springs, CO 81147", Pagosa Springs, CO 81147,"$975,000",Image 1 of 35
+799, House for sale,"3 bds3 ba2,325 sqft ","1803 Sunset Cir, Milliken, CO 80543", Milliken, CO 80543,"$465,000",Not Available
